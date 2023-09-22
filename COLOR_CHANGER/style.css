@@ -1,0 +1,69 @@
+html{
+    margin:0;
+}
+
+span{
+    display: block;
+}
+
+.playground{
+    margin:100px auto 100px;
+    width:80%;
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    border:solid black 2px;
+    display: inline-flex;
+}
+
+.button1{
+
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    border-radius:50%;
+    display: inline-flex;
+}
+
+
+#Orange{
+    background: orange;
+}
+
+#White{
+    background: white;
+}
+
+#Blue{
+    background: blue;
+}
+
+#Green{
+    background: greenyellow;
+}
+
+#Violet{
+    background: Violet;
+}
+
+#Red{
+    background-color: red;
+}
+
+#Yellow{
+    background-color: yellow;
+}
+
+#Cyan{
+    background-color: cyan;
+}
+
+#Indigo{
+    background-color: indigo;
+}
+
+
+

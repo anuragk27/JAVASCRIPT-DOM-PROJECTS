@@ -1,0 +1,13 @@
+html{
+    margin:0;
+}
+
+body{
+    background-image: url('img.jpg');
+}
+
+.container{
+    margin:100px auto 100px;
+    width:80%;
+    text-align: center;
+}
